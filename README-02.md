@@ -26,9 +26,7 @@
 ``` bash
 user@debian:~$ sudo apt install apparmor-utils apparmor-profiles-extra -y
 ```  
-2. Проверка статуса  
-![apparmor1-status](02-img/img-13-2-apparmor0-status.png)  
-3. Использование  
+2. Проверка статуса и использование  
 ![apparmor1-installed](02-img/img-13-2-apparmor1-intalled.png)
 ![cluster-master-node-replicas](02-img/img-13-2-apparmor2-implied.png)
 ![cluster-master-node-replicas](02-img/img-13-2-apparmor3-stopped&teardown.png)
