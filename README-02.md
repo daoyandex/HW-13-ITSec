@@ -6,7 +6,10 @@
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.  
 ### Ответ
-
+``` bash
+root@debianVM2:~# adduser cryptouser
+root@debianVM2:~#ecryptfs-migrate-home -u cryptouser
+```
 ![crypted-user-home-dir-access-denied](02-img/img-13-2-task1-ecryptfs1-crypted-user-home-dir-access-denied.png)
 
 --- 
