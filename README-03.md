@@ -27,21 +27,21 @@ sudo nmap -sV < ip-адрес >
 ![protected-host-with-suricata](03-img/img-13-3-netsec-protected-host-suricata.png)  
 1. TCP ACK port scan
 ![kali-nmap-sA](03-img/img-13-3-netsec-nmap-sA.png)
-
-
-2. TCP connect port scan
-![kali-nmap-sT](03-img/img-13-3-netsec-nmap-sT.png)
-![ph-suricata-log-sT](03-img/img-13-3-netsec-nmap-sT-suricata-log.png)
-
-
-3. TCP SYN port scan
-![kali-nmap-sS](03-img/img-13-3-netsec-nmap-sS.png)
-![ph-suricata-log-sS](03-img/img-13-3-netsec-nmap-sS-suricata-log.png)
-
-
-4. Try to explore the version of the service
-![kali-nmap-sV](03-img/img-13-3-netsec-nmap-sV.png)
-![ph-suricata-log-sV](03-img/img-13-3-netsec-nmap-sV-suricata-log.png)
+  
+  
+2. TCP connect port scan  
+![kali-nmap-sT](03-img/img-13-3-netsec-nmap-sT.png)  
+![ph-suricata-log-sT](03-img/img-13-3-netsec-nmap-sT-suricata-log.png)  
+  
+  
+3. TCP SYN port scan  
+![kali-nmap-sS](03-img/img-13-3-netsec-nmap-sS.png)  
+![ph-suricata-log-sS](03-img/img-13-3-netsec-nmap-sS-suricata-log.png)  
+  
+  
+4. Try to explore the version of the service  
+![kali-nmap-sV](03-img/img-13-3-netsec-nmap-sV.png)  
+![ph-suricata-log-sV](03-img/img-13-3-netsec-nmap-sV-suricata-log.png)  
 
 
 
