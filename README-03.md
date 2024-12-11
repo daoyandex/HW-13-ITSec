@@ -25,7 +25,7 @@ sudo nmap -sV < ip-адрес >
 ### Ответ
 Защищаемый хост  
 ![protected-host-with-suricata](03-img/img-13-3-netsec-protected-host-suricata.png)  
-1. TCP ACK port scan
+1. TCP ACK port scan  
 ![kali-nmap-sA](03-img/img-13-3-netsec-nmap-sA.png)
   
   
