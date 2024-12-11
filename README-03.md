@@ -66,4 +66,16 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
 
-### Ответ
+### Ответ  
+```bash
+sudo nano /etc/fail2ban/jail.conf
+```
+
+
+1.1. Успешная атака на подбор пароля для службы SSH:
+![kali-hydra-ssh-success](03-img/img-13-3-hydra-ssh-success.png)  
+![ph-suricata-log-sV](03-img/img-13-3-hydra-ssh-suricata-log.png)  
+
+1.2. Атака на подбор пароля для службы SSH после установки настроек fail2ban
+
+
